@@ -1,6 +1,6 @@
 # NLP Internship
 
-This repository contains two projects and an article:
+This repository contains two projects
 
 1. **Customer Complaint Analysis Feedback System:**
     - Developed a Feedback System for analyzing customer complaints.
@@ -11,7 +11,3 @@ This repository contains two projects and an article:
     - Performed News Analysis through Sentiment Analysis.
     - Provided actionable intelligence for decision-making.
   
-3. **Article on NLP vs. nlp:**
-    - Authored an insightful article discussing the distinctions between NLP and NLP using some native examples.
-    - Explores the nuances and applications of each field.
-
